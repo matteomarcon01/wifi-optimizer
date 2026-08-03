@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wi-Fi Optimizer"
+  short_description: "Diagnose Wi-Fi issues and apply safe optimizations"
+  default_prompt: "Use $wifi-optimizer to diagnose my Wi-Fi without changing any settings."
